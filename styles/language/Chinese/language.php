@@ -691,7 +691,7 @@ $general_language = array(
 $forum_language = array(
 	// Latest discussions view
 	'forums' => '討論區',
-	'discussion' => '討論',
+	'discussion' => '討論串',
 	'stats' => '統計資料',
 	'last_reply' => '最新的回覆',
 	'ago' => '之前',
